@@ -75,7 +75,7 @@ while (continuar)
     Console.WriteLine("\nPressione qualquer tecla para realizar um novo cálculo...");
 
     // Pausa a execução para que o usuário consiga ler os resultados na tela
-    Console.ReadKey();a
+    Console.ReadKey();
 }
 
 // Mensagem final exibida apenas quando o usuário decide sair do programa
