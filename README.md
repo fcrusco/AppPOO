@@ -2,8 +2,6 @@ Este projeto é uma revisão prática dos pilares da **Programação Orientada a
 
 ---
 
-## 🇧🇷 Português
-
 ### 💡 Conceitos Aplicados
 * **Abstração e Interfaces:** Uso de `IFreteService` para definir contratos de serviço, desacoplando a lógica de quem a consome.
 * **Herança:** `FreteExpresso` e `FreteEconomico` herdam de uma classe base comum (`FreteBase`).
